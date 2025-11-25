@@ -1,0 +1,6 @@
+{
+  "name": "backend-atletadeouro",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "yarn@4.6.0"
+}
