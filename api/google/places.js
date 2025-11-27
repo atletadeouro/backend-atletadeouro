@@ -1,4 +1,4 @@
-export default async function getGooglePlaceReviews(req, res) {
+export default async function handler(req, res) {
   const { placeId } = req.query;
 
   if (!placeId) {
